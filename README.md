@@ -1,4 +1,6 @@
-### Hi there 👋
+### Norma_Portfolio
+
+## A collection of data analysis and data science work
 
 <!--
 **nogomez92/nogomez92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
